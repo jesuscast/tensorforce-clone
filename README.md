@@ -1,3 +1,11 @@
+## Frozen tensorforce for Lorenzo
+
+### Install
+1. `git clone git@github.com:jesuscast/tensorforce-clone.git`
+2. `cd tensorforce`
+3. `pip install -e .`
+
+
 TensorForce: A TensorFlow library for applied reinforcement learning
 ====================================================================
 
